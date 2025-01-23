@@ -8,9 +8,9 @@ rnums = rng.normal(size = N)
 
 print(rnums)
 
-plt.plot(rnums, ',')
+#plt.plot(rnums)
 
-plt.show()
+#plt.show()
 
 # Data binning
 
